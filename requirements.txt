@@ -1,4 +1,4 @@
 numpy
 spacy==2.2.3
-Scrapy==2.0.0
+Scrapy==2.5.1
 nltk==3.4.5
